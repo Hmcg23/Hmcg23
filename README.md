@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hmcg23
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning git, and js
+- 🌱 I’m currently learning git, and html
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me ..
 
