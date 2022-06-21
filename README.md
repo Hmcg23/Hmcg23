@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hudson</h1>
 <h3 align="center">Hello! My name is Hudson and I'm currently learning to be a full-stack web developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmcg23&label=Profile%20views&color=0e75b6&style=flat" alt="hmcg23" /> </p>
-
 - 🔭 I’m currently working on [RedOS 7 Official Website](https://redos7.netlify.app/)
 
 - 🌱 I’m currently learning **back end development and Node.js!**
