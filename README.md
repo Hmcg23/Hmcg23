@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hudson</h1>
 <h3 align="center">Hello! My name is Hudson and I'm currently learning to be a full-stack web developer.</h3>
 
-- 🔭 I’m currently working on [RedOS 7 Official Website](https://redos7.netlify.app/)
+- 🔭 I’m currently working on [SolarWeather](https://solarweather.netlify.app/)
 
 - 🌱 I’m currently learning **back end development**
 
