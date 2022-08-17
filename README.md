@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **back end development**
 
-- 👨‍💻 Check out my portfolio! It is a little old, but I'm planning on upgrading it soon. [https://hmcg23.github.io/my-portfolio1/](https://hmcg23.github.io/my-portfolio1/)
+- 👨‍💻 New Portfolio coming soon!
 
 - ⚡ Fun fact: **I can solve a Rubik's Cube in 6 seconds ;)**
 
