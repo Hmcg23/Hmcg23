@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hudson</h1>
-<h3 align="center">Hello! My name is Hudson and I'm currently learning to be a full-stack web developer.</h3>
+<h3 align="center">Hello! My name is Hudson, and I'm a future software engineer</h3>
 
-- 🔭 I’m currently working on CS50
+- 🔭 I’m currently working on Peakode 👀
 
 - 👯 I’m looking to collaborate on **a project with someone 🤞**
 
