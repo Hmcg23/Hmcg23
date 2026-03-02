@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hudson</h1>
-<h3 align="center">Hello! My name is Hudson, and I'm a future software engineer.</h3>
+<h3 align="center">Software Engineer | Full-stack Development</h3>
 
 - 🔭 I’m currently working on Peakode 👀
 
