@@ -1,5 +1,5 @@
 # Hey, I'm Hudson 👋
-**Software Engineer · Harvard CS · Full-stack, Data Science & AI**
+**Software Engineer · Harvard CS & Philosophy · Full-stack, Data Science & AI**
 
 - ⚡ Speed-cuber (6 seconds)
 - ♟ Chess player
