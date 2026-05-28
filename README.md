@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hudson</h1>
-<h3 align="center">Software Engineer | Full-stack Development</h3>
+# Hey, I'm Hudson 👋
+**Software Engineer · Harvard CS · Full-stack, Data Science & AI**
 
-- 🔭 I’m currently building!
-
-- ⚡ Fun fact: **I can solve a Rubik's cube in 6 seconds**
+- ⚡ Speed-cuber (6 seconds)
+- ♟ Chess player
+- 🏃 Walk-on 800m athlete @ Harvard Track & Field
+- 🎬 Cinematography & linguistics nerd
